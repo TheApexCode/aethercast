@@ -1,0 +1,7 @@
+{
+  "name": "AetherCast AI - Global Weather Intelligence",
+  "description": "Global historical weather analysis with AI-powered meteorological insights, detailed 14-day forecasts, interactive maps, and customizable alerts.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
